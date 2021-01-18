@@ -7,16 +7,21 @@ we'll be using the following concepts:
 - responding to keyboard events
 - passing data between components
 
-**_Tools_**
+**_Tools_**  
 VS Code for Linux
 [Starter Template]("")
 [SvelteJs]("https://svelte.dev/")
 
+Extensions I used:
+
+- Svelte for VS Code
+- Prettier - Code formatter
+
 ## How to get started:
 
-Make sure you have npm installed
-Clone the snake*starter repo
-Navigate to the starter folder and run \*\*\_npm install***
+Make sure you have npm installed  
+Clone the snake\*starter repo  
+Navigate to the starter folder and run \*\*\_npm install**\*  
 To start the application use **_npm run dev_\*\*
 
 ## Components
@@ -94,8 +99,4 @@ Find out what a spread operator is.
 Dont forget to remove the hardcoded css values.
 Read up on [setInterval()]("https://www.w3schools.com/jsref/met_win_setinterval.asp")
 CTRL - S
-
-Extensions I used:
-
-- Svelte for VS Code
-- Prettier - Code formatter
+Will update with excercise source after workshop:)
