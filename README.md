@@ -2,8 +2,9 @@
 
 ## In this workshop we're going to work with Sveltejs
 
-update: Workshop solution pushed.
-Workshop is based on excercise by youtube creator Noah Glaser
+# update: Workshop solution pushed.
+
+Workshop is based on excercise by youtube creator Noah Glaser  
 For full solution and walktrough check out: https://www.youtube.com/watch?v=kMJM6VHdfcc
 
 we'll be using the following concepts:
